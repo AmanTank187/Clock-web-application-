@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+*{
+  padding: 0;
+  margin: 0:
+  box-sizing: border-box;
+}
+
+body{
+  background-color: black;
+}
+
+.mbox{
+  background: black;
+  width: 400px;
+  height: 175px;
+  margin: 100px auto;
+  position: relative;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.cbox{
+  background: black;
+  text-align: center;
+  font-size: 55px;
+  height: 70%;
+  padding-top: 55px;
+  font-family: Orbitron;
+  border-radius: 4px;
+  color: blue;
+}
+
+.dbox{
+  background: black;
+  width: 800px;
+  height: 200px;
+  position: relative;
+  margin: -30px  auto;
+  font-size: 50px;
+  font-family: Orbitron;
+  text-align: center;
+  color: blue;
+  border-radius: 10px;
+
+}
